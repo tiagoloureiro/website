@@ -1,0 +1,16 @@
+{
+  "name": "Portfólio Tiago Loureiro",
+  "short_name": "Portfólio Tiago",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000",
+  "description": "Tiago Loureiro's personal page",
+  "theme_color": "#000",
+  "icons": [
+    {
+      "src": "assets/img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
